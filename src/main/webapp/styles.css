@@ -76,7 +76,7 @@ tr:last-of-type td:last-of-type {
 }
 
 .view tr:nth-child(odd){
-    background-color: rgba(246, 227, 179, 0.84);
+    background-color: rgba(246, 191, 179, 0.84);
 }
 
 .view tr:hover {
